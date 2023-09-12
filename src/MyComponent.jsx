@@ -9,7 +9,7 @@ function MyComponent({name , img, price, link,para}) {
   return (
     <>
     <section  style={{display:"flex",justifyContent:"center",alignItems:"center"}}>
-  <article style={{display:"flex",flexDirection:"column" , height:"450px",width:"300px",backgroundColor:"pink",justifyContent:"center",alignItems:"center",margin:"10px",borderRadius:"25px",padding:"10px",border: "3px solid black"}}>
+  <article style={{display:"flex",flexDirection:"column" , height:"450px",width:"300px",backgroundColor:"silver",justifyContent:"center",alignItems:"center",margin:"10px",borderRadius:"25px",padding:"10px",border: "3px solid black"}}>
     <img  style={{width:"300px", height:"150px", width:"150px",display:"flex", justifyContent:"center"}} src={img} alt=""   />
     <h3>Price :  {price}</h3>
     
