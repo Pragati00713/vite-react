@@ -6,7 +6,7 @@ const Demo = () => {
   return (
     <>
   
-   <nav style={{width:"100%",backgroundColor:"silver" , color:"white" , height:"70px",display:"flex",justifyContent:"space-around",alignItems:"center",boxSizing:"border-box",paddingTop:"10px"}}  >
+   <nav style={{width:"100%", backgroundColor:"silver" , color:"white" , height:"70px",display:"flex",justifyContent:"space-around",alignItems:"center",boxSizing:"border-box",paddingTop:"10px"}}  >
      
      <ul>
       <a href="https://www.oppo.com/in/product/oppo-reno8-t.P.P1100122?variant=5011100203&gclid=Cj0KCQjwmICoBhDxARIsABXkXlICLL3fShJSFH7quR4c38oa4MMVHCbez8NGloobzwATYQnOe0rmFFIaAo3FEALw_wcB" target='blank'><button  style={{width:"80px",height:"35px",backgroundColor:"pink",borderRadius:"25px",margin:"10px"}}>Oppo</button></a> 
